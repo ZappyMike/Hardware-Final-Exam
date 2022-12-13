@@ -17,3 +17,7 @@ The controller itself is shaped like the ghosts that players control and is desi
 Assembly:  
 
 The controller consists of a top, bottom and button. The button is placed through the right most hole and is supported by the tact switch and platform underneath. The top and bottom are simply connected together.  
+
+Improvements:  
+
+This prototype is not perfect. The back of the controller could be better shaped to fit human hands that are holding it. There can also be more internal pieces to hold everything in place. 
