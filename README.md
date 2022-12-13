@@ -4,6 +4,8 @@ By Matthew McPherson (100757379)
 
 TinkerCAD link: https://www.tinkercad.com/things/3Vh8uP1s57a-bodacious-krunk/editel?sharecode=X7bk9syc10esTcgPOtTXC4dVt-zQ4mWvD2tSVSwY9X4  
 
+TinkerCAD Video: https://youtu.be/bEpDQZthmP0  
+
 Electronic Components:  
 
 ![TinkerCAD screenshot](https://user-images.githubusercontent.com/56273440/207424786-9ff245a9-242f-4ae5-a93c-dcd583125eb1.PNG)
